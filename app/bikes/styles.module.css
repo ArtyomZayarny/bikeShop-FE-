@@ -1,0 +1,3 @@
+.category {
+    min-height:calc(100vh - 72px - 96px - 408px)
+}

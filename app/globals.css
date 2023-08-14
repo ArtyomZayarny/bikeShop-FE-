@@ -3,25 +3,30 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+    --dark:#2E424D;
+    --accent:#FE0000;
+    --disabled:#C6CED0;
+    --gray-light:#F4F6F7;
+}
+button {
+    font-size:0
+}
+h1,h2,h3,h4,h5,h6 {
+    color:var(--dark)
+}
+.text-color {
+    color: var(--dark)
+}
+.accent {
+    color: var(--accent)
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+.disabled {
+    color: var(--disabled)
 }
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.shadow {
+    box-shadow: 1px 1px 2px 0px rgba(46, 66, 77, 0.10);
+}
+.bg-gr {
+    background-color: var(--gray-light, #F4F6F7);;
 }
