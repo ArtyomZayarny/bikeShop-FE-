@@ -9,7 +9,7 @@ export const footerLinks = {
       },
       { label: "Оплата і доставка", href: "./dostavka" },
       { label: "Обмін та повернення", href: "./obmen" },
-      { label: "Публічний договір оферти прокату", href: "./oferta" },
+      { label: "Публічний договір оферти прокату!", href: "./oferta" },
       { label: "Прокат", href: "./prokat" },
       { label: "Ремонт", href: "./remont" },
       { label: "Блог", href: "./blog" },
