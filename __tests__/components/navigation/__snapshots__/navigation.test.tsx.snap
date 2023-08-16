@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation should render Navigation 1`] = `
+<div>
+  <nav
+    class="flex justify-center navigation"
+    id="navigation"
+  >
+    <div
+      class="justify-between py-6 w-full 2xl:max-w-screen-2xl xl:max-w-screen-xl lg:px-10 lg:flex md:px-5 items-center md:grid md:grid-cols-2 md:grid-row-1 md:gap-y-4"
+    >
+      <div
+        class="logo"
+      >
+        <a
+          href="/"
+        >
+          <img
+            alt="logo"
+            data-nimg="1"
+            decoding="async"
+            height="206"
+            loading="lazy"
+            src="./svg/logo.svg"
+            style="color: transparent;"
+            width="200"
+          />
+        </a>
+      </div>
+      <ul
+        class="flex gap-6 md:justify-end"
+      >
+        <li>
+          <div
+            class="flex"
+          >
+            <img
+              alt="catalog"
+              data-nimg="1"
+              decoding="async"
+              height="20"
+              loading="lazy"
+              src="./svg/burger.svg"
+              style="color: transparent;"
+              width="20"
+            />
+            <a
+              class="text-color font-[600]"
+              href="#catalog"
+            >
+              Каталог
+            </a>
+          </div>
+        </li>
+        <li>
+          <a
+            class="text-color font-[600]"
+            href="#new"
+          >
+            Новинки
+          </a>
+        </li>
+        <li>
+          <a
+            class="accent font-[600]"
+            href="#sale"
+          >
+            Акції
+          </a>
+        </li>
+        <li>
+          <a
+            class="text-color font-[600]"
+            href="#services"
+          >
+            Послуги
+          </a>
+        </li>
+      </ul>
+      <div
+        class="w-full md:w-full md:col-span-2 lg:max-w-sm "
+      >
+        <form
+          action=""
+          class="flex items-center lg:max-w-md bg-white rounded-full px-6 py-3 w-full md:w-full"
+        >
+          <input
+            class="outline-none w-full"
+            placeholder=""
+            type="text"
+          />
+          <img
+            alt="search"
+            data-nimg="1"
+            decoding="async"
+            height="24"
+            loading="lazy"
+            src="./svg/search.svg"
+            style="color: transparent;"
+            width="24"
+          />
+          <button
+            hidden=""
+            type="submit"
+          >
+            Search
+          </button>
+        </form>
+      </div>
+    </div>
+  </nav>
+</div>
+`;

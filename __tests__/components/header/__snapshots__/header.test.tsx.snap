@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render Header 1`] = `
+<div>
+  <header
+    class="flex justify-center"
+    id="header"
+  >
+    <div
+      class="justify-between py-6 w-full 2xl:max-w-screen-2xl xl:max-w-screen-xl lg:px-10 lg:flex md:px-5 "
+    >
+      <ul
+        class="flex md:gap-7 md:mb-4 justify-between lg:gap-5 lg:mb-0"
+      >
+        <li>
+          <a
+            class="md:text-lg lg:text-sm font-[500] text-color"
+            href="/about-us"
+          >
+              Про нас
+          </a>
+        </li>
+        <li>
+          <a
+            class="md:text-lg lg:text-sm font-[500] text-color"
+            href="/payment-and-delivery"
+          >
+            Оплата і доставка
+          </a>
+        </li>
+        <li>
+          <a
+            class="md:text-lg lg:text-sm font-[500] text-color"
+            href="/contacts"
+          >
+            Контакти
+          </a>
+        </li>
+        <li>
+          <a
+            class="md:text-lg lg:text-sm font-[500] text-color"
+            href="/blog"
+          >
+            Блог
+          </a>
+        </li>
+      </ul>
+      <div
+        class="md:justify-between flex gap-5"
+      >
+        <p
+          class="flex"
+        >
+          <a
+            class="font-[500]"
+            href="tel:+380962071551"
+          >
+            +38 (096) 207 15 51
+          </a>
+          <img
+            alt="chevron"
+            data-nimg="1"
+            decoding="async"
+            height="24"
+            loading="lazy"
+            src="./svg/chevron.svg"
+            style="color: transparent;"
+            width="24"
+          />
+        </p>
+        <div
+          class="flex gap-2"
+        >
+          <button>
+            <img
+              alt="ua"
+              data-nimg="1"
+              decoding="async"
+              height="14"
+              loading="lazy"
+              src="./svg/ua.svg"
+              style="color: transparent;"
+              width="29"
+            />
+          </button>
+          <button>
+            <img
+              alt="en"
+              data-nimg="1"
+              decoding="async"
+              height="14"
+              loading="lazy"
+              src="./svg/en.svg"
+              style="color: transparent;"
+              width="27"
+            />
+          </button>
+        </div>
+        <img
+          alt="balance"
+          data-nimg="1"
+          decoding="async"
+          height="24"
+          loading="lazy"
+          src="./svg/balance.svg"
+          style="color: transparent;"
+          width="24"
+        />
+        <img
+          alt="heart"
+          data-nimg="1"
+          decoding="async"
+          height="24"
+          loading="lazy"
+          src="./svg/heart.svg"
+          style="color: transparent;"
+          width="24"
+        />
+        <img
+          alt="cart"
+          data-nimg="1"
+          decoding="async"
+          height="24"
+          loading="lazy"
+          src="./svg/cart.svg"
+          style="color: transparent;"
+          width="24"
+        />
+        <img
+          alt="user"
+          data-nimg="1"
+          decoding="async"
+          height="24"
+          loading="lazy"
+          src="./svg/user.svg"
+          style="color: transparent;"
+          width="24"
+        />
+      </div>
+    </div>
+  </header>
+</div>
+`;

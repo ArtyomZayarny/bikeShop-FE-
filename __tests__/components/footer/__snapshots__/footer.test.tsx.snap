@@ -1,0 +1,337 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render footer 1`] = `
+<div>
+  <footer
+    class="flex justify-center footer py-10"
+  >
+    <div
+      class="justify-between py-6 w-full 2xl:max-w-screen-2xl xl:max-w-screen-xl lg:px-10 lg:flex md:px-5 items-stretch"
+    >
+      <div
+        class="flex flex-col"
+      >
+        <h3
+          class="text-white text-base font-bold mb-4"
+        >
+          Покупцеві
+        </h3>
+        <ul
+          class="flex flex-col h-full"
+        >
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./about-us"
+            >
+              Про нас
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./dostavka"
+            >
+              Оплата і доставка
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./obmen"
+            >
+              Обмін та повернення
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./oferta"
+            >
+              Публічний договір оферти прокату!
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./prokat"
+            >
+              Прокат
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./remont"
+            >
+              Ремонт
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./blog"
+            >
+              Блог
+            </a>
+          </li>
+          <li
+            class="text-white text-sm copyright"
+          >
+            ©
+            2017-2023 Інтернет магазин велосипедів Jolly Ride
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h3
+          class="text-white text-base font-bold mb-4"
+        >
+          Каталог
+        </h3>
+        <ul>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./new-prosucts"
+            >
+              Новинки
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./akcii"
+            >
+              Акції
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./sale"
+            >
+              Розпродаж
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./bikes"
+            >
+              Велосипеди
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./accessories"
+            >
+              Аксесуари
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./details"
+            >
+              Запчастини
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./instruments"
+            >
+              Інструменти та мастила
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./ware"
+            >
+              Велоодяг
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./term-ware"
+            >
+              Термобілизна
+            </a>
+          </li>
+          <li>
+            <a
+              class="text-white text-sm"
+              href="./winter-sport"
+            >
+              Зимовий спорт
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="flex flex-col items-start"
+      >
+        <ul>
+          <li
+            class="text-white text-sm pb-4  last:p:0"
+          >
+            м. Івано-Франківськ, вул. Галицька 145 Б
+          </li>
+          <li
+            class="text-white text-sm pb-4  last:p:0"
+          >
+            Пн-Сб: 10:00-19:00
+          </li>
+          <li
+            class="text-white text-sm pb-4  last:p:0"
+          >
+            <div
+              class="flex items-center"
+            >
+              <img
+                alt="email"
+                class="mr-2"
+                data-nimg="1"
+                decoding="async"
+                height="24"
+                loading="lazy"
+                src="./svg/email.svg"
+                style="color: transparent;"
+                width="24"
+              />
+              <a
+                class="flex"
+                href="mailto:jollyride.if@gmail.com"
+              >
+                jollyride.if@gmail.com
+              </a>
+            </div>
+          </li>
+          <li
+            class="text-white text-sm pb-4  last:p:0"
+          >
+            <div
+              class="flex items-center"
+            >
+              <img
+                alt="phone"
+                class="mr-2"
+                data-nimg="1"
+                decoding="async"
+                height="24"
+                loading="lazy"
+                src="./svg/phone.svg"
+                style="color: transparent;"
+                width="24"
+              />
+              <a
+                class="flex"
+                href="tel:+380962071551"
+              >
+                +38 (096) 207 15 51
+              </a>
+            </div>
+          </li>
+        </ul>
+        <button
+          class="callback py-2 px-3"
+        >
+          <span
+            class="text-white text-xs font-medium"
+          >
+            ПЕРЕДЗВОНИТИ МЕНІ
+          </span>
+        </button>
+        <ul
+          class="flex gap-4 mt-auto"
+        >
+          <li>
+            <a
+              href="https://www.instagram.com/jolly.ride"
+            >
+              <img
+                alt="instagram"
+                data-nimg="1"
+                decoding="async"
+                height="24"
+                loading="lazy"
+                src="./svg/instagram.svg"
+                style="color: transparent;"
+                width="24"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.facebook.com/JollyRideShop"
+            >
+              <img
+                alt="facebook"
+                data-nimg="1"
+                decoding="async"
+                height="24"
+                loading="lazy"
+                src="./svg/facebook.svg"
+                style="color: transparent;"
+                width="24"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://t.me/veloif"
+            >
+              <img
+                alt="telegram"
+                data-nimg="1"
+                decoding="async"
+                height="24"
+                loading="lazy"
+                src="./svg/telegram.svg"
+                style="color: transparent;"
+                width="24"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.viber.com/"
+            >
+              <img
+                alt="viber"
+                data-nimg="1"
+                decoding="async"
+                height="24"
+                loading="lazy"
+                src="./svg/viber.svg"
+                style="color: transparent;"
+                width="24"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.tiktok.com/@jollyride1?_t=8bEmdEx0CH8&_r=1"
+            >
+              <img
+                alt="tik_tok"
+                data-nimg="1"
+                decoding="async"
+                height="24"
+                loading="lazy"
+                src="./svg/tik_tok.svg"
+                style="color: transparent;"
+                width="24"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</div>
+`;
